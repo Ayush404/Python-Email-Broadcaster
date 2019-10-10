@@ -1,0 +1,24 @@
+{
+	"clients": [
+		{
+			"name":"Prakhar",
+			"email":"reciepent gmail address",
+			"subject":"This  mail is for Prakhar only"
+		},
+		{
+			"name":"Ayush",
+			"email":"reciepent gmail address",
+			"subject":"This  mail is for Ayush only"
+
+
+		},
+		{
+			"name":"Ratan",
+			"email":"reciepent gmail address",
+			"subject":"This  mail is for Ratan only"
+
+
+		}
+		
+	]
+}
